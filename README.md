@@ -14,10 +14,3 @@ The project consists of the following files and directories:
 - **history.py**: Module for tracking operation history.
 - **tests/**: Directory containing unit tests for each module.
 
-## Instructions for Group Members
-
-### Setup
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/your-username/advanced-calculator.git
-   cd advanced-calculator

@@ -1,16 +1,10 @@
-# Advanced Calculator Project
+SPK-Project
 
-## Overview
-This project is a collaborative effort to build an advanced calculator in Python. The calculator will support various mathematical operations, including basic arithmetic, advanced functions, trigonometric calculations, memory operations, and history tracking. This README provides instructions for setting up the project and contributing to its development.
+Overview: Collection of Python programs with outputs demonstrating various concepts.
 
-## Project Structure
-The project consists of the following files and directories:
+Includes: Various Python programs I've learned and implemented.
 
-- **main.py**: The main program file responsible for user interaction and coordinating operations.
-- **basic_operations.py**: Module for basic arithmetic operations.
-- **advanced_operations.py**: Module for advanced mathematical functions.
-- **trig_functions.py**: Module for trigonometric functions.
-- **memory_functions.py**: Module for memory functions.
-- **history.py**: Module for tracking operation history.
-- **tests/**: Directory containing unit tests for each module.
+Purpose: Useful for beginners and experienced programmers.
+
+Features: Easy-to-understand code with expected outputs provided.
 
